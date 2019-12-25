@@ -15,7 +15,7 @@ The lense is arranged parallel "in-line" with the laser beam.
 
 Focus mirrors shape the vibro blade.
 
-semitransparent limiters are used to control length. Even gundams have limiters.
+Semitransparent limiters are used to control length. Even gundams have limiters.
 
 Holster is designed to put pressure on saber to charge.
 

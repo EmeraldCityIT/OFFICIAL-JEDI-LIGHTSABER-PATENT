@@ -1,4 +1,5 @@
-# Andromedan-Lightsaber
+# OFFICIAL-ANDROMEDAN-LIGHTSABER-PATENT
+
 Requires a crystal with high potential energy. liquid crystal capsules exist.
 
 Tight grip on handle activates mechanical pressure on a crystal.

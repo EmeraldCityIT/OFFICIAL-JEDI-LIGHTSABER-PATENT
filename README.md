@@ -19,6 +19,7 @@ semitransparent limiters are used to control length. Even gundams have limiters.
 
 Holster is designed to put pressure on saber to charge.
 
-Real Jedis keep their grips on their light sabers during turmoil to "charge it with the force".
+Real Jedi keep their grips on their light sabers during turmoil to "charge it with the force".
+
 "Stop Fucking with my paycheck" -Mace Windu
 

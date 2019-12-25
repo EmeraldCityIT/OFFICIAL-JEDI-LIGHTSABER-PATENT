@@ -1,10 +1,15 @@
 # Andromedan-Lightsaber
-
-Capacitor stores energy.
+Requires a crystal with high potential energy. liquid crystal capsules exist.
 
 Tight grip on handle activates mechanical pressure on a crystal.
 
-Retroreflectors are used to reflect natural energy in the vibrating crystal released as light into a lense.
+Crystal chamber is engineered so that it's vibration generates large amounts of electrity over time.
+
+Capacitor stores energy.
+
+Cyanide light bulb is used to generate high intensity energy (Jedis die from lightsader explosions).
+
+Retroreflectors are used to reflect energy in the vibrating crystal released as light into a lense.
 
 The lense is arranged parallel "in-line" with the laser beam.
 

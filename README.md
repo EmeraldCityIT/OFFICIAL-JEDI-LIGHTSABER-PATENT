@@ -14,11 +14,11 @@ Cyanide light bulb is used to generate high intensity energy. Cyanide bulbs must
 
 Retroreflectors are used to reflect energy in the vibrating crystal released as light into a lense.
 
-The lense is arranged parallel "in-line" with the laser beam.
+The lense is arranged parallel "in-line" with the laser beam to create the trademark "Light Saber".
 
-Focus mirrors shape the vibro blade.
+Focus mirrors remove noise from the vibro blade.
 
-Semitransparent limiters are used to control length. Even gundams have limiters.
+Semitransparent limiters are used to control length.
 
 Holster is designed to put pressure on saber to charge.
 

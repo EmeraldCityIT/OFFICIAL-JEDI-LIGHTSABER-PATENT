@@ -17,5 +17,7 @@ Focus mirrors shape the vibro blade.
 
 semitransparent limiters are used to control length. Even gundams have limiters.
 
+Holster is designed to put pressure on saber to charge.
+
 "Stop Fucking with my paycheck" -Mace Windu
 

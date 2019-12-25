@@ -1,4 +1,4 @@
-# OFFICIAL-ANDROMEDAN-LIGHTSABER-PATENT
+# OFFICIAL-JEDI-LIGHTSABER-PATENT
 
 Requires a crystal with high potential energy. liquid crystal capsules exist.
 

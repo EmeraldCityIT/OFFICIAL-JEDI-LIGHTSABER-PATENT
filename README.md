@@ -8,6 +8,8 @@ Crystal chamber is engineered so that it's vibration induces and stores large am
 
 Capacitor stores energy.
 
+Holding down a trigger closes the circuit.
+
 Cyanide light bulb is used to generate high intensity energy (Jedis die from lightsader explosions).
 
 Retroreflectors are used to reflect energy in the vibrating crystal released as light into a lense.

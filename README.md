@@ -4,7 +4,7 @@ Requires a crystal with high potential energy. liquid crystal capsules exist.
 
 Tight grip on handle activates mechanical pressure on a crystal.
 
-Crystal chamber is engineered so that it's vibration induces large amounts of electrity over time.
+Crystal chamber is engineered so that it's vibration induces and stores large amounts of electrity over time.
 
 Capacitor stores energy.
 

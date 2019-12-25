@@ -10,7 +10,7 @@ Capacitor stores energy.
 
 Holding down a trigger closes the circuit. Releasing the trigger opens the circuit. The trigger's default state is off.
 
-Cyanide light bulb is used to generate high intensity energy. Cyanide bulbs must be flexible to expand during operation. (Jedis die from lightsaber explosions).
+Cyanide light bulb is used to generate high intensity energy. Cyanide bulbs must be flexible to expand during operation. (Jedi die from lightsaber explosions).
 
 Retroreflectors are used to reflect energy in the vibrating crystal released as light into a lense.
 

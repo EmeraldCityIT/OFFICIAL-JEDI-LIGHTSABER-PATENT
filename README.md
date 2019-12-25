@@ -8,7 +8,7 @@ Crystal chamber is engineered so that it's vibration induces and stores large am
 
 Capacitor stores energy.
 
-Holding down a trigger closes the circuit.
+Holding down a trigger closes the circuit. Releasing the trigger opens the circuit. The trigger's default state is off.
 
 Cyanide light bulb is used to generate high intensity energy (Jedis die from lightsader explosions).
 

@@ -18,7 +18,7 @@ The lense is arranged parallel "in-line" with the laser beam to create the trade
 
 Focus mirrors remove noise from the vibro blade.
 
-Semitransparent limiters are used to control length.
+Semitransparent mirrors are used as limiters to control length of light blade.
 
 Holster is designed to put pressure on saber to charge.
 

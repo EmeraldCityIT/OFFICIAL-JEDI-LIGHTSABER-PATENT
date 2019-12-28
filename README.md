@@ -16,6 +16,8 @@ Retroreflectors are used to reflect energy in the vibrating crystal released as 
 
 The lense is arranged parallel "in-line" with the laser beam to create the trademark "Light Saber".
 
+A focus condensor (small scope) is used to bring in the focus focus point of the light fulcrum Ricasso into the rain-guard.
+
 Focus mirrors remove noise from the vibro blade.
 
 Semitransparent mirrors are used as limiters to control length of light blade.
